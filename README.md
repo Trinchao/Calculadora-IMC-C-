@@ -1,2 +1,2 @@
-# Calculadora IMC C#
+# Calculadora IMC/ C#
 Calculadora IMC 
